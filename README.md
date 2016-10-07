@@ -1,4 +1,8 @@
 # hello-world
 Learning by practicing the hello world.
 
-Jada here doing some work. Trying this whole Github thing.
+
+Me, here doing some work. 
+Trying this whole Github thing.
+
+Soccer is my favorite.
